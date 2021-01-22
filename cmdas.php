@@ -34,7 +34,7 @@
 <font color= yellow , size= 15 , face= Courier New> <b> "TODAY LET'S MAKE A DIFFERENCE" </b>
 </p>
 <p align= right>
-<font color= black , size= 3 , face= Arial> <b> ©?CMDAS </b>
+<font color= black , size= 3 , face= Arial> <b> Å ?CMDAS </b>
 </body>
 </html>
 
